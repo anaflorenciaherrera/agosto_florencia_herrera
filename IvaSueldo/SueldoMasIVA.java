@@ -7,7 +7,7 @@ public class SueldoMasIVA {
         Scanner input = new Scanner(System.in);
 
         double valorIva = 0.00;
-        System.out.println("Hola!!");
+        //System.out.println("Hola!!");
         System.out.println("Ingrese el sueldo: ");
         float d = input.nextFloat();
 
